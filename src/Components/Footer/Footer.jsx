@@ -17,7 +17,7 @@ function Footer() {
               </h2>
               <hr className="my-5 w-20 ml-1 md:hidden" />
               <ul className="text-gray-500 font-medium">
-                <p>dotDEVs</p>
+                <p>Dev Knights</p>
               </ul>
             </div>
             <div className="ml-4">

@@ -9,17 +9,17 @@ function MiddleOne() {
         <TbPointFilled color="red" size={30} className="mt-2" />
         <div>
           <h4 className="font-semibold text-xl text-white">
-            Virtual Visualization
+            Snip from the Webpage
           </h4>
-          <span className="text-gray-200">Instant AR Room Preview</span>
+          <span className="text-gray-200">Instant detection</span>
         </div>
       </li>
       <li className="md:hidden h-24 w-2 bg-white mx-auto"></li>
       <li className="flex gap-3 px-6 py-2">
         <TbPointFilled color="green" size={30} className="mt-2" />
         <div>
-          <h4 className="font-semibold text-xl text-white">2D Room Design</h4>
-          <span className="text-gray-300">Accurate Layout Generator</span>
+          <h4 className="font-semibold text-xl text-white">Enter the text review</h4>
+          <span className="text-gray-300">Detect based on text</span>
         </div>
       </li>
       <li className="md:hidden h-24 w-2 bg-white mx-auto"></li>

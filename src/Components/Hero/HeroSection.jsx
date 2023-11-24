@@ -22,14 +22,13 @@ function HeroSection() {
       {/* Outlet section */}
       <div className="bg-hero bg-cover bg-center pt-10 md:pt-16 lg:pt-10 px-1 md:px-8 lg:px-16 flex flex-col justify-center text-center">
         <h1 className="mb-2 md:mb-4 lg:mb-6 px-0 md:px-24 text-5xl md:text-6xl font-extrabold tracking-tight leading-none md:text-center text-white">
-          Revolutionize your interior design with Augumented Reality
+          CHECK FOR FAKE REVIEWS
         </h1>
         <p className="py-6 md:py-0 px-6 md:px-4 text-lg md:text-lg lg:text-xl font-normal text-gray-500 md:text-center dark:text-gray-300">
           <span className="text-green-500 font-semibold">
-            Are you transforming your living space?
+            TROUBLE HAVING BOT REVIEWS ON THE PRODUCTS ?
           </span>{" "}
-          Our innovative augmented reality technology lets you design your dream
-          room with ease. Experiment with our endless combinations of items.
+          Our innovative fake review detector will tell all the fake reviews and make your user experience much better.
         </p>
         <button
           type="submit"
@@ -39,7 +38,7 @@ function HeroSection() {
           }}
           onClick={handleClick}
         >
-          Under Process
+          Download Extension
         </button>
         {/* <form className="w-full max-w-md mx-auto">
           <label
