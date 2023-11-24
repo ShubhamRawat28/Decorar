@@ -6,7 +6,7 @@ function Header() {
       <div className="flex items-center justify-between p-2">
         {/* Left */}
         <div className="ml-10 self-center text-2xl whitespace-nowrap font-bold">
-          <a href="/">CrackIt</a>
+          <a href="/">WeWithReviews</a>
         </div>
       </div>
     </nav>
