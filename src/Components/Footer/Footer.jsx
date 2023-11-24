@@ -37,7 +37,7 @@ function Footer() {
           <span className="text-xl text-center justify-center dark:text-gray-400 text-white">
             © {new Date().getFullYear()}{" "}
             <a href="/" className="text-blue-500 hover:underline">
-              Decorar
+              WeWithReviews
             </a>
           </span>
         </div>
