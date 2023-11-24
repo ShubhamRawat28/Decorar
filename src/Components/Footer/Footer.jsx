@@ -6,7 +6,7 @@ function Footer() {
           <div className="mb-6 md:mb-0">
             <a href="/" className="flex items-center justify-center">
               <span className="self-center text-3xl text-gray-300 font-semibold font-mono whitespace-nowrap">
-                DecorAR
+                WeWithReviews
               </span>
             </a>
           </div>
