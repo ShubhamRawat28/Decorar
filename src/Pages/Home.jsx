@@ -19,7 +19,7 @@ function Home() {
       </div>
       {/* Hero-End */}
       <div className="flex justify-center text-center text-sky-400 text-xl md:text-2xl font-bold pt-16 pb-6 font-mono">
-        Transform your space with ease. Start designing now!
+        Ensure Your Reviews... Start Using now!
       </div>
     </>
   );

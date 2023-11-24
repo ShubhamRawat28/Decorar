@@ -27,9 +27,9 @@ function MiddleOne() {
         <TbPointFilled color="blue" size={30} className="mt-2" />
         <div>
           <h4 className="font-semibold text-xl text-white">
-            Extensive Catalogue
+            Verify Reviews
           </h4>
-          <span className="text-gray-300">Diverse Furniture Selection</span>
+          <span className="text-gray-300">Know whether the reviews are geninue or fake</span>
         </div>
       </li>
     </ul>
